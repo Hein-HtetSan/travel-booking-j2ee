@@ -8,7 +8,7 @@ public class openConnection {
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		Connection con = null;
 		try {
-			con = DriverManager.getConnection("jdbc:mysql://localhost/tbs", "root", "ykpt22270");
+			con = DriverManager.getConnection("jdbc:mysql://localhost/DB_NAME", "root", "DB_PASSWORD");
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
