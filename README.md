@@ -16,6 +16,15 @@ code .
 ```
 
 3. create database by this diagram [Click Here!](https://github.com/Hein-HtetSan/travel-booking-j2ee/tree/main/guide)
+
+**If you don't want to create new database, then just use ***DB_dump*** which is already provided under guide folder**
+```shell
+CREATE DATABASE tbs;
+use tbs;
+```
+
+#### OR
+
 ```shell
 CREATE DATABASE travel_booking_system;
 use travel_booking_system;
