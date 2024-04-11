@@ -15,7 +15,7 @@ cd travel-booking-j2ee
 code .
 ```
 
-3. create database by this diagram [Click Here!](https://github.com/Hein-HtetSan/travel-booking-j2ee/guide)
+3. create database by this diagram [Click Here!](https://github.com/Hein-HtetSan/travel-booking-j2ee/tree/main/guide)
 ```shell
 CREATE DATABASE travel_booking_system;
 use travel_booking_system;
